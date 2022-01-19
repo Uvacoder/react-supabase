@@ -14,7 +14,7 @@
         "dist/**"
     ],
     "repository": "tmm/react-supabase",
-    "homepage": "https://react-supabase.vercel.app",
+    "homepage": "https://react-supabase-two.vercel.app",
     "license": "MIT",
     "scripts": {
         "build": "vite build",
